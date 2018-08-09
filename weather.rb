@@ -23,3 +23,4 @@ def city_weather_info(weather)
   weather.each do |key, value|
   puts "The #{key} is #{value}." 
 end
+end
